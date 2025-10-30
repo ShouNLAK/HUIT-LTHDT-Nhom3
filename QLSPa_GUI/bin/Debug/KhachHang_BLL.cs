@@ -12,9 +12,8 @@ namespace QLSPa_BLL
     {
         private DataAccess_DAL dal = new DataAccess_DAL();
         private List<KhachHang> dsKhachHang;
-        private string filePath = "Data/DanhSachKhachHang.xml"; // Bạn nên đặt file này vào thư mục bin/Debug
+        private string filePath = "Data/DanhSachKhachHang.xml";
 
-        // Constructor cần danh sách DV đầy đủ để link
         public KhachHang_BLL(List<DichVu> dsDichVuFull)
         {
             dsKhachHang = dal.DocDanhSachKhachHang(filePath, dsDichVuFull);
@@ -34,7 +33,7 @@ namespace QLSPa_BLL
             if (kh != null)
                 return kh.ListDichVu;
 
-            return null; // Không tìm thấy
+            return null;
         }
 
         // 3. In KH dùng > 3 dịch vụ

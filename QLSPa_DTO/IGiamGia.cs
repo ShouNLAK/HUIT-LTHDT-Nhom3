@@ -8,6 +8,6 @@ namespace QLSPa_DTO
 {
     public interface IGiamGia
     {
-        double TinhGiamGia(); // Sửa lại tên hàm cho rõ nghĩa
+        double TinhGiamGia();
     }
 }

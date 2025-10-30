@@ -2,22 +2,22 @@
   <DichVu Loai="ChamSocSacDep">
     <TenDichVu>Tẩy da chết (mặt)</TenDichVu>
     <DichVuDiKem>Tẩy da chết dịu nhẹ</DichVuDiKem>
-    <GiaThanh>206000</GiaThanh>
+    <GiaThanh>218545,4</GiaThanh>
   </DichVu>
   <DichVu Loai="ChamSocSacDep">
     <TenDichVu>Da mặt cơ bản</TenDichVu>
     <DichVuDiKem>Rửa mặt, Massage, Đắp mặt nạ thường</DichVuDiKem>
-    <GiaThanh>360500</GiaThanh>
+    <GiaThanh>382454,45</GiaThanh>
   </DichVu>
   <DichVu Loai="ChamSocSacDep">
     <TenDichVu>Trị mụn chuyên sâu</TenDichVu>
     <DichVuDiKem>Lấy nhân mụn, Chiếu đèn sinh học, Đắp mặt nạ đặc trị</DichVuDiKem>
-    <GiaThanh>618000</GiaThanh>
+    <GiaThanh>655636,2</GiaThanh>
   </DichVu>
   <DichVu Loai="ChamSocSacDep">
     <TenDichVu>Trẻ hóa Hifu</TenDichVu>
     <DichVuDiKem>Hifu vùng mặt, Đắp mặt nạ vàng</DichVuDiKem>
-    <GiaThanh>1854000</GiaThanh>
+    <GiaThanh>1966908,6</GiaThanh>
   </DichVu>
   <DichVu Loai="ChamSocBody">
     <TenDichVu>Gội đầu dưỡng sinh</TenDichVu>

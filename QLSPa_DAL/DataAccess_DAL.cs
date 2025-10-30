@@ -10,7 +10,6 @@ namespace QLSPa_DAL
 {
     public class DataAccess_DAL
     {
-        // Hàm đọc file DanhSachDichVu.xml
         public List<DichVu> DocDanhSachDichVu(string filePath)
         {
             List<DichVu> dsDichVu = new List<DichVu>();
@@ -48,8 +47,6 @@ namespace QLSPa_DAL
             return dsDichVu;
         }
 
-        // Hàm đọc file DanhSachKhachHang.xml
-        // Cần danh sách dịch vụ (đã đọc ở trên) để link đối tượng
         public List<KhachHang> DocDanhSachKhachHang(string filePath, List<DichVu> dsDichVuFull)
         {
             List<KhachHang> dsKhachHang = new List<KhachHang>();
@@ -69,7 +66,6 @@ namespace QLSPa_DAL
                 foreach (XmlNode dvNode in dvNodes)
                 {
                     string tenDV = dvNode.InnerText;
-                    // Tìm đối tượng DichVu thật từ danh sách đầy đủ
                     DichVu dvDaCo = dsDichVuFull.FirstOrDefault(dv => dv.TenDichVu.Equals(tenDV));
                     if (dvDaCo != null)
                     {
@@ -82,8 +78,6 @@ namespace QLSPa_DAL
             }
             return dsKhachHang;
         }
-
-        // Hàm lưu file DanhSachDichVu.xml (sau khi cập nhật giá)
         public void LuuDanhSachDichVu(string filePath, List<DichVu> dsDichVu)
         {
             XmlDocument doc = new XmlDocument();
@@ -94,14 +88,12 @@ namespace QLSPa_DAL
             {
                 XmlElement dichVuElem = doc.CreateElement("DichVu");
 
-                // Set Attribute
                 string loai = "";
                 if (dv is ChamSocSacDep) loai = "ChamSocSacDep";
                 else if (dv is ChamSocBody) loai = "ChamSocBody";
                 else if (dv is DuongSinhTriLieu) loai = "DuongSinhTriLieu";
                 dichVuElem.SetAttribute("Loai", loai);
 
-                // Set Child Nodes
                 XmlElement tenDvElem = doc.CreateElement("TenDichVu");
                 tenDvElem.InnerText = dv.TenDichVu;
                 dichVuElem.AppendChild(tenDvElem);

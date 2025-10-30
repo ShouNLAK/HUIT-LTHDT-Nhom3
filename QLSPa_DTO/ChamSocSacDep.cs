@@ -16,7 +16,6 @@ namespace QLSPa_DTO
 
         public void CapNhatKP()
         {
-            // Cập nhật trực tiếp giá trị của đối tượng
             this.GiaThanh = this.GiaThanh * 1.03;
         }
 

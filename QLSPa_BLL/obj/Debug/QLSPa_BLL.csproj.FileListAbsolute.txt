@@ -11,3 +11,16 @@ C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\obj\Debug\QLSPa_BLL.csproj.CoreCom
 C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\obj\Debug\QLSPa_BLL.csproj.Up2Date
 C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\obj\Debug\QLSPa_BLL.dll
 C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\obj\Debug\QLSPa_BLL.pdb
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\bin\Debug\DichVu_BLL.cs
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\bin\Debug\KhachHang_BLL.cs
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\bin\Debug\QLSPa_BLL.dll
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\bin\Debug\QLSPa_BLL.pdb
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\bin\Debug\QLSPa_DAL.dll
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\bin\Debug\QLSPa_DTO.dll
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\bin\Debug\QLSPa_DAL.pdb
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\bin\Debug\QLSPa_DTO.pdb
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\obj\Debug\QLSPa_BLL.csproj.AssemblyReference.cache
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\obj\Debug\QLSPa_BLL.csproj.CoreCompileInputs.cache
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\obj\Debug\QLSPa_BLL.csproj.Up2Date
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\obj\Debug\QLSPa_BLL.dll
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_BLL\obj\Debug\QLSPa_BLL.pdb

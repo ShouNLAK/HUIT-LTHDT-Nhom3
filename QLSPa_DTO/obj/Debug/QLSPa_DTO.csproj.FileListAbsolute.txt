@@ -4,3 +4,9 @@ C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DTO\obj\Debug\QLSPa_DTO.csproj.Assembl
 C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DTO\obj\Debug\QLSPa_DTO.csproj.CoreCompileInputs.cache
 C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DTO\obj\Debug\QLSPa_DTO.dll
 C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DTO\obj\Debug\QLSPa_DTO.pdb
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DTO\bin\Debug\QLSPa_DTO.dll
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DTO\bin\Debug\QLSPa_DTO.pdb
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DTO\obj\Debug\QLSPa_DTO.csproj.AssemblyReference.cache
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DTO\obj\Debug\QLSPa_DTO.csproj.CoreCompileInputs.cache
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DTO\obj\Debug\QLSPa_DTO.dll
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DTO\obj\Debug\QLSPa_DTO.pdb

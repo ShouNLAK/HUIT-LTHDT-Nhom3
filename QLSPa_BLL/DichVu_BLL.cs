@@ -12,11 +12,10 @@ namespace QLSPa_BLL
     {
         private DataAccess_DAL dal = new DataAccess_DAL();
         private List<DichVu> dsDichVu;
-        private string filePath = "Data/DanhSachDichVu.xml"; // thư mục bin/Debug
+        private string filePath = "Data/DanhSachDichVu.xml";
 
         public DichVu_BLL()
         {
-            // Tải danh sách DV ngay khi khởi tạo BLL
             dsDichVu = dal.DocDanhSachDichVu(filePath);
         }
 
@@ -40,7 +39,7 @@ namespace QLSPa_BLL
                 throw new Exception("Loại dịch vụ không hợp lệ");
 
             dsDichVu.Add(dv);
-            // Lưu ngay sau khi thêm
+
             dal.LuuDanhSachDichVu(filePath, dsDichVu);
         }
 
@@ -52,13 +51,11 @@ namespace QLSPa_BLL
             {
                 if (dv is ChamSocSacDep)
                 {
-                    // Ép kiểu và gọi hàm
                     ((ICapNhatKinhPhi)dv).CapNhatKP();
                     daCapNhat = true;
                 }
             }
 
-            // Nếu có cập nhật, lưu lại file
             if (daCapNhat)
                 dal.LuuDanhSachDichVu(filePath, dsDichVu);
         }
@@ -84,7 +81,7 @@ namespace QLSPa_BLL
         }
 
         // 6. Lấy DV theo loại
-        public List<DichVu> GetDichVuTheoLoai(string loai) // "ChamSocSacDep", "ChamSocBody", "DuongSinhTriLieu"
+        public List<DichVu> GetDichVuTheoLoai(string loai)
         {
             if (loai.Equals("ChamSocSacDep"))
                 return dsDichVu.Where(dv => dv is ChamSocSacDep).ToList();
@@ -93,7 +90,7 @@ namespace QLSPa_BLL
             if (loai.Equals("DuongSinhTriLieu"))
                 return dsDichVu.Where(dv => dv is DuongSinhTriLieu).ToList();
 
-            return new List<DichVu>(); // Trả về list rỗng nếu loại sai
+            return new List<DichVu>();
         }
     }
 }

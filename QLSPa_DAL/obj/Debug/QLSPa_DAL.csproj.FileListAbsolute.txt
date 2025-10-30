@@ -7,3 +7,12 @@ C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\obj\Debug\QLSPa_DAL.csproj.CoreCom
 C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\obj\Debug\QLSPa_DAL.csproj.Up2Date
 C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\obj\Debug\QLSPa_DAL.dll
 C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\obj\Debug\QLSPa_DAL.pdb
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DAL\bin\Debug\QLSPa_DAL.dll
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DAL\bin\Debug\QLSPa_DAL.pdb
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DAL\bin\Debug\QLSPa_DTO.dll
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DAL\bin\Debug\QLSPa_DTO.pdb
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DAL\obj\Debug\QLSPa_DAL.csproj.AssemblyReference.cache
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DAL\obj\Debug\QLSPa_DAL.csproj.CoreCompileInputs.cache
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DAL\obj\Debug\QLSPa_DAL.csproj.Up2Date
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DAL\obj\Debug\QLSPa_DAL.dll
+D:\Download\HUIT-LTHDT-Nhom3-main\HUIT-LTHDT-Nhom3-main\QLSPa_DAL\obj\Debug\QLSPa_DAL.pdb

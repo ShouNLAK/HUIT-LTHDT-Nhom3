@@ -54,7 +54,6 @@ namespace QLSPa_DTO
             this.GiaThanh = giaThanh;
         }
 
-        // Dùng để hiển thị trên ListBox
         public override string ToString()
         {
             return $"{TenDichVu}  {GiaThanh:N0} VND  (Chi tiết: {DichVuDiKem})";

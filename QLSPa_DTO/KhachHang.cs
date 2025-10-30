@@ -10,8 +10,6 @@ namespace QLSPa_DTO
         private string maKH;
         private string tenKH;
         private string sDT;
-
-        // Dùng property để đóng gói
         public List<DichVu> ListDichVu { get; private set; }
 
         public string MaKH
@@ -47,7 +45,6 @@ namespace QLSPa_DTO
             }
         }
 
-        // Xóa hàm Console. Đã chuyển ListDichVu thành Property
         public KhachHang(string maKH, string tenKH, string sDT, List<DichVu> listDichVu)
         {
             this.MaKH = maKH;
@@ -66,7 +63,7 @@ namespace QLSPa_DTO
             this.maKH = kh.maKH;
             this.tenKH = kh.tenKH;
             this.SDT = kh.SDT;
-            this.ListDichVu = new List<DichVu>(kh.ListDichVu); // Tạo 1 list mới
+            this.ListDichVu = new List<DichVu>(kh.ListDichVu);
         }
 
 

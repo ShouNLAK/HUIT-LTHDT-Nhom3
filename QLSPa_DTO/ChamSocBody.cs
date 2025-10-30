@@ -16,7 +16,7 @@ namespace QLSPa_DTO
 
         public double TinhGiamGia()
         {
-            return this.GiaThanh * 0.07; // Giảm 7%
+            return this.GiaThanh * 0.07;
         }
 
         public override string ToString()
