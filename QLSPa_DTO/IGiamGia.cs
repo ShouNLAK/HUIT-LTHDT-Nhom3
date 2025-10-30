@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace QLSPa_DTO
+{
+    public interface IGiamGia
+    {
+        double TinhGiamGia(); // Sửa lại tên hàm cho rõ nghĩa
+    }
+}

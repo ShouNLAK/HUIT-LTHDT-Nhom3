@@ -1,0 +1,13 @@
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\bin\Debug\DichVu_BLL.cs
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\bin\Debug\KhachHang_BLL.cs
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\bin\Debug\QLSPa_BLL.dll
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\bin\Debug\QLSPa_BLL.pdb
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\bin\Debug\QLSPa_DAL.dll
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\bin\Debug\QLSPa_DTO.dll
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\bin\Debug\QLSPa_DAL.pdb
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\bin\Debug\QLSPa_DTO.pdb
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\obj\Debug\QLSPa_BLL.csproj.AssemblyReference.cache
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\obj\Debug\QLSPa_BLL.csproj.CoreCompileInputs.cache
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\obj\Debug\QLSPa_BLL.csproj.Up2Date
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\obj\Debug\QLSPa_BLL.dll
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_BLL\obj\Debug\QLSPa_BLL.pdb

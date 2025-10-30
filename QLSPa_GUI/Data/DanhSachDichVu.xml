@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSach>
+	<DichVu Loai="ChamSocSacDep">
+		<TenDichVu>Tẩy da chết (mặt)</TenDichVu>
+		<DichVuDiKem>Tẩy da chết dịu nhẹ</DichVuDiKem>
+		<GiaThanh>200000</GiaThanh>
+	</DichVu>
+	<DichVu Loai="ChamSocSacDep">
+		<TenDichVu>Da mặt cơ bản</TenDichVu>
+		<DichVuDiKem>Rửa mặt, Massage, Đắp mặt nạ thường</DichVuDiKem>
+		<GiaThanh>350000</GiaThanh>
+	</DichVu>
+	<DichVu Loai="ChamSocSacDep">
+		<TenDichVu>Trị mụn chuyên sâu</TenDichVu>
+		<DichVuDiKem>Lấy nhân mụn, Chiếu đèn sinh học, Đắp mặt nạ đặc trị</DichVuDiKem>
+		<GiaThanh>600000</GiaThanh>
+	</DichVu>
+	<DichVu Loai="ChamSocSacDep">
+		<TenDichVu>Trẻ hóa Hifu</TenDichVu>
+		<DichVuDiKem>Hifu vùng mặt, Đắp mặt nạ vàng</DichVuDiKem>
+		<GiaThanh>1800000</GiaThanh>
+	</DichVu>
+
+	<DichVu Loai="ChamSocBody">
+		<TenDichVu>Gội đầu dưỡng sinh</TenDichVu>
+		<DichVuDiKem>Gội đầu thảo dược, Massage cổ vai gáy nhẹ</DichVuDiKem>
+		<GiaThanh>180000</GiaThanh>
+	</DichVu>
+	<DichVu Loai="ChamSocBody">
+		<TenDichVu>Massage đá nóng</TenDichVu>
+		<DichVuDiKem>Massage bằng tinh dầu, Đá nóng</DichVuDiKem>
+		<GiaThanh>550000</GiaThanh>
+	</DichVu>
+	<DichVu Loai="ChamSocBody">
+		<TenDichVu>Tắm trắng toàn thân</TenDichVu>
+		<DichVuDiKem>Tẩy tế bào chết body, Ủ dưỡng trắng collagen</DichVuDiKem>
+		<GiaThanh>900000</GiaThanh>
+	</DichVu>
+
+	<DichVu Loai="DuongSinhTriLieu">
+		<TenDichVu>Bấm huyệt chân</TenDichVu>
+		<DichVuDiKem>Ngâm chân thảo dược, Bấm huyệt chân</DichVuDiKem>
+		<GiaThanh>400000</GiaThanh>
+	</DichVu>
+	<DichVu Loai="DuongSinhTriLieu">
+		<TenDichVu>Trị liệu Cổ-Vai-Gáy</TenDichVu>
+		<DichVuDiKem>Bấm huyệt, Đắp ngải cứu</DichVuDiKem>
+		<GiaThanh>480000</GiaThanh>
+	</DichVu>
+	<DichVu Loai="DuongSinhTriLieu">
+		<TenDichVu>Trị liệu đau lưng</TenDichVu>
+		<DichVuDiKem>Xoa bóp, Điện sinh học, Chườm thảo dược</DichVuDiKem>
+		<GiaThanh>750000</GiaThanh>
+	</DichVu>
+</DanhSach>

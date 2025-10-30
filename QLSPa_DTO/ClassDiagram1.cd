@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QLSPa_DTO.ChamSocBody">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChamSocBody.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QLSpaWinForms.ChamSocSacDep">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChamSocSacDep.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QLSpaWinForms.DanhSachDichVu">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAIIAAgCIAEAAAAAEAAEAAAAAAAAAQEAAAABAA=</HashCode>
+      <FileName>DanhSachDichVu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLSPa_DTO.DanhSachKhachHang">
+    <Position X="6" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>DanhSachKhachHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLSPa_DTO.DichVu">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAQAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DichVu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLSPa_DTO.DuongSinhTriLieu">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DuongSinhTriLieu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QLSPa_DTO.KhachHang">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgCAAAIAAAAAAAAEAAAAAAAAIQAAAAEEA=</HashCode>
+      <FileName>KhachHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="QLSpaWinForms.ICapNhatKinhPhi" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICapNhatKinhPhi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QLSPa_DTO.IGiamGia" Collapsed="true">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGiamGia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

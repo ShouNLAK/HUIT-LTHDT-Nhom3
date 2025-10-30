@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSach>
+	<KhachHang>
+		<MaKH>KH001</MaKH>
+		<TenKH>Trần Thị A</TenKH>
+		<SDT>0903333444</SDT>
+		<ListDichvu>
+			<DichVu>Trị liệu Cổ-Vai-Gáy</DichVu>
+			<DichVu>Trị mụn chuyên sâu</DichVu>
+			<DichVu>Bấm huyệt chân</DichVu>
+			<DichVu>Gội đầu dưỡng sinh</DichVu>
+		</ListDichvu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH002</MaKH>
+		<TenKH>Hoàng Thị B</TenKH>
+		<SDT>0909999000</SDT>
+		<ListDichvu>
+			<DichVu>Trẻ hóa Hifu</DichVu>
+			<DichVu>Massage đá nóng</DichVu>
+			<DichVu>Trị liệu đau lưng</DichVu>
+			<DichVu>Bấm huyệt chân</DichVu>
+			<DichVu>Da mặt cơ bản</DichVu>
+		</ListDichvu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH003</MaKH>
+		<TenKH>Đặng Văn C</TenKH>
+		<SDT>0918888999</SDT>
+		<ListDichvu>
+			<DichVu>Trị mụn chuyên sâu</DichVu>
+			<DichVu>Trẻ hóa Hifu</DichVu>
+			<DichVu>Tắm trắng toàn thân</DichVu>
+			<DichVu>Massage đá nóng</DichVu>
+			<DichVu>Trị liệu đau lưng</DichVu>
+			<DichVu>Bấm huyệt chân</DichVu>
+		</ListDichvu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH004</MaKH>
+		<TenKH>Lê Thị D</TenKH>
+		<SDT>0924444555</SDT>
+		<ListDichvu>
+			<DichVu>Trị liệu đau lưng</DichVu>
+			<DichVu>Trị liệu Cổ-Vai-Gáy</DichVu>
+			<DichVu>Tắm trắng toàn thân</DichVu>
+			<DichVu>Gội đầu dưỡng sinh</DichVu>
+		</ListDichvu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH005</MaKH>
+		<TenKH>Lê Thị E</TenKH>
+		<SDT>0905555666</SDT>
+		<ListDichvu>
+			<DichVu>Tắm trắng toàn thân</DichVu>
+			<DichVu>Trị liệu Cổ-Vai-Gáy</DichVu>
+			<DichVu>Gội đầu dưỡng sinh</DichVu>
+		</ListDichvu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH006</MaKH>
+		<TenKH>Diệp Bảo Phạm Trường</TenKH>
+		<SDT>0901111222</SDT>
+		<ListDichvu>
+			<DichVu>Da mặt cơ bản</DichVu>
+			<DichVu>Massage đá nóng</DichVu>
+		</ListDichvu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH007</MaKH>
+		<TenKH>Đồng Thu Nhiên </TenKH>
+		<SDT>0907777888</SDT>
+		<ListDichvu>
+			<DichVu>Tẩy da chết (mặt)</DichVu>
+		</ListDichvu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH008</MaKH>
+		<TenKH>Hoàng Xuân Phi Long</TenKH>
+		<SDT>0910000111</SDT>
+		<ListDichvu>
+			<DichVu>Trị liệu Cổ-Vai-Gáy</DichVu>
+		</ListDichvu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH009</MaKH>
+		<TenKH>Hứa Trọng Nhân</TenKH>
+		<SDT>0912222333</SDT>
+		<ListDichvu>
+			<DichVu>Trị mụn chuyên sâu</DichVu>
+			<DichVu>Da mặt cơ bản</DichVu>
+		</ListDichvu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH010</MaKH>
+		<TenKH>Nguyễn Lê Anh Khoa</TenKH>
+		<SDT>0916666777</SDT>
+		<ListDichvu>
+			<DichVu>Bấm huyệt chân</DichVu>
+			<DichVu>Gội đầu dưỡng sinh</DichVu>
+			<DichVu>Trị liệu Cổ-Vai-Gáy</DichVu>
+		</ListDichvu>
+	</KhachHang>
+</DanhSach>

@@ -1,0 +1,9 @@
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\bin\Debug\QLSPa_DAL.dll
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\bin\Debug\QLSPa_DAL.pdb
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\bin\Debug\QLSPa_DTO.dll
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\bin\Debug\QLSPa_DTO.pdb
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\obj\Debug\QLSPa_DAL.csproj.AssemblyReference.cache
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\obj\Debug\QLSPa_DAL.csproj.CoreCompileInputs.cache
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\obj\Debug\QLSPa_DAL.csproj.Up2Date
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\obj\Debug\QLSPa_DAL.dll
+C:\Users\TUYETNHI\BAITAP\QLSPaFinal\QLSPa_DAL\obj\Debug\QLSPa_DAL.pdb
