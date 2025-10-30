@@ -46,7 +46,7 @@
 
 ### Kiến trúc 3 lớp (3-Layer Architecture):
 - GUI (Graphical User Interface): Lớp giao diện người dùng, hiển thị thông tin và nhận tương tác.
-- BLL (Business Logic Layer): Lớp xử lý logic nghiệp vụ. (VD: KhachHang_BLL kiểm tra tính hợp lệ của SĐT trước khi lưu).
+- BLL (Business Logic Layer): Lớp xử lý logic nghiệp vụ.
 - DAL (Data Access Layer): Lớp truy cập dữ liệu, chịu trách nhiệm đọc/ghi dữ liệu.
 - DTO (Data Transfer Object): Các đối tượng (lớp) dùng để vận chuyển dữ liệu giữa các lớp.
 
