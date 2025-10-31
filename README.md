@@ -16,7 +16,7 @@
 ## 👥 Thành Viên Nhóm
 
 | STT | Họ và Tên | GitHub | Vai trò | Mô tả công việc | Đánh giá |
-|-----|-----------|--------|---------|
+|-----|-----------|--------|---------|-----------------|----------|
 | 1 | Hứa Trọng Nhân | [@DGao-006](https://github.com/DGao-006) | Nhóm trưởng | Build 3-Layer Architecture, UI | 100% |
 | 2 | Nguyễn Lê Anh Khoa | [@ShouNLAK](https://github.com/ShouNLAK) | Thành viên | DichVu (DTO - BLL), Debug, Re-fix Corruption | 100% |
 | 3 | Đồng Thu Nhiên | [@dongthunhien](https://github.com/dongthunhien) | Thành viên | Tester, PPTX & DOCX, DAL, XML Data | 100% |
