@@ -28,7 +28,7 @@ namespace QLSPa_BLL
         // 2. Xuất DV theo tên KH
         public List<DichVu> GetDichVuTheoTenKH(string tenKH)
         {
-            KhachHang kh = dsKhachHang.FirstOrDefault(k => k.TenKH.ToLower().Contains(tenKH.ToLower()));
+            KhachHang kh = GetDanhSachKhachHang().FirstOrDefault(k => k.TenKH.ToLower().Contains(tenKH.ToLower()));
 
             if (kh != null)
                 return kh.ListDichVu;
